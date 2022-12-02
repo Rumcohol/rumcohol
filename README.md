@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there!
+This is Rupesh Mahore. I'm a computational physicist and Machine Learning Engineer. Welcome to this page.
 
 <!--
 **Rumcohol/rumcohol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
